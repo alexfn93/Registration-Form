@@ -5,7 +5,7 @@
 
 ![Registration Form](https://user-images.githubusercontent.com/108309097/208586798-4e61ccd3-0ea7-4330-9515-6dae6575bff2.png)
 
-![Registration Form.webm](https://user-images.githubusercontent.com/108309097/208586329-21c61a8f-555c-4b31-b959-7037938452fc.webm)
+:movie_camera:[Registration Form.webm](https://user-images.githubusercontent.com/108309097/208586329-21c61a8f-555c-4b31-b959-7037938452fc.webm)(vídeo do projeto funcionando)
 
 
 
@@ -35,9 +35,9 @@
 
 :heavy_check_mark: Nesta página utilizei os elementos de tags HTML e fazendo a estilização com propriedades de CSS. 
 
-:heavy_check_mark:HTML-> Utilizei as as tags semânticas na páginas. Coloquei também o uso do atributo "class" para fazer a ligação das "divs" com o CSS para a estilização das mesmas. Para fazer a inserção dos icons, usei a tag "img src" e, por fim, para inserir os links com um destino usando a tag "a href".
+:heavy_check_mark:HTML-> 
 
-:heavy_check_mark:CSS-> Com o CSS, para pôr a ilustração de fundo do cardápio, me utilizei da propriedade "background-image" adicionando esta uma imagem linkanda a uma url. Inseri as propriedades como "font-family", "font-style", "text-align" e "color" para estilizar textos. Empreguei também propriedades "padding","font-size","max-width","height","width" e "margin" para definir parâmetros de altura e largura num geral, dentro das especificidades de cada caso.
+:heavy_check_mark:CSS-> 
 
 
 ## Linguagens, dependências e libs utilizadas :books:
